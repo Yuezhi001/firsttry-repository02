@@ -1,4 +1,10 @@
-llo world？你好？abcdefg12345！@#￥%……&
+<<<<<<< Updated upstream
+l world？你好？abcdefg12345！@#￥%……&
+=======
+hello 
+wozai 吃饭
+world？你好？abcdefg12345！@#￥%……&
+>>>>>>> Stashed changes
 change in dev2 branch
 =======
 hello 
