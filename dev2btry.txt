@@ -1,3 +1,5 @@
 in dev2
 branch study
-??
+?
+?
+i have finished the Git study
